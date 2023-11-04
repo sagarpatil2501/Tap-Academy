@@ -395,3 +395,219 @@ a:link {
   background-color: #6c6969;
   height: 400px;
 }
+.placementcell {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5e5e5e;
+  margin-left: 120px;
+  margin-top: 40px;
+  color: whitesmoke;
+}
+.placementimage {
+  margin-left: 65%;
+  margin-top: -50px;
+}
+.placementcell1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  text-align: left;
+  margin-left: 120px;
+  margin-top: -340px;
+  line-height: 1.5;
+  color: whitesmoke;
+}
+.placementcellblock {
+  height: 500px;
+  background-color: #5e5e5e;
+  border: 0;
+}
+.placementcellblocknext {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  margin-top: 60px;
+  margin-left: 400px;
+}
+.placementcellblocknext1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  margin-left: 130px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.marquee1 {
+  margin-left: 240px;
+}
+.marquee2 {
+  margin-left: 240px;
+}
+.marquee3 {
+  margin-left: 240px;
+}
+.placementcellcongratulations {
+  width: 1100px;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px 90px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f8f0e5;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 220px;
+  margin-top: 30px;
+}
+.contactus {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  margin-top: 40px;
+  text-align: center;
+  padding-top: 20px;
+}
+.contactus1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 10px;
+}
+.form {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: whitesmoke;
+  text-align: left;
+  margin-left: 660px;
+  margin-top: 20px;
+}
+.contactusblock {
+  background-color: #5e5e5e;
+  padding-bottom: 30px;
+}
+.map {
+  margin-top: 40px;
+}
+.mapblock {
+  background-color: #5e5e5e;
+  height: 600px;
+  padding-top: 30px;
+}
+.studentsreviews {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #8eaccd;
+  margin-top: 30px;
+}
+.studentsreviews1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #5e5e5e;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.img1 {
+  border: #5e5e5e solid;
+  width: 400px;
+  justify-content: space-between;
+  box-shadow: 5px 5px 10px #5e5e5e;
+}
+.imageblock {
+  width: 1400px;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px 90px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f8f0e5;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.course {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  text-align: center;
+  margin-top: 30px;
+}
+.course1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  text-align: center;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.algorithm {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  text-align: center;
+  margin-top: 30px;
+}
+.algorithm1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  text-align: center;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.fullstack {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  text-align: center;
+  margin-top: 30px;
+}
+.fullstack1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  text-align: center;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.knowmore {
+  width: 200px;
+  font-size: 15px;
+  text-decoration: black;
+  color: #fff;
+  background-color: #5e5e5e;
+  padding: 8px 40px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-left: 650px;
+  margin-top: 10px;
+}
+.knowmore:hover {
+  background-color: #8eaccd;
+  transition: 0.4s ease;
+}
+.index2 {
+  background-color: #f9f5f6;
+  height: 690px;
+  padding-top: 40px;
+}
+.courseblock {
+  border: #5e5e5e solid;
+  padding-bottom: 30px;
+}
+.algorithmblock {
+  border: #5e5e5e solid;
+  padding-bottom: 30px;
+}
+.fullstackblock {
+  border: #5e5e5e solid;
+  padding-bottom: 40px;
+}
