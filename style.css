@@ -1,0 +1,397 @@
+.phonelogo {
+  margin-left: 140px;
+}
+
+.telnum {
+  margin-left: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.emaillogo {
+  margin-left: 55%;
+}
+
+.mailid {
+  margin-left: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.youtubelogo {
+  margin-left: 15px;
+}
+
+.instalogo {
+  margin-left: 10px;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+.firstset {
+  background-color: ghostwhite;
+  border: 0;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.tapacademylogo {
+  margin-left: 120px;
+}
+
+.secondline span {
+  margin-left: 70px;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+.try {
+  font-size: 15px;
+  text-decoration: black;
+  color: #fff;
+  background-color: whitesmoke;
+  padding: 8px 12px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+}
+
+.try:hover {
+  background-color: #8eaccd;
+  transition: 0.4s ease;
+}
+
+.tech {
+  font-family: Arial, Helvetica, sans-serif;
+  color: greenyellow;
+  padding-top: 60px;
+  padding-left: 120px;
+}
+
+.gamify {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 120px;
+  margin-top: 10px;
+  color: whitesmoke;
+}
+
+.gamifynext {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 120px;
+  color: whitesmoke;
+}
+
+.container1 {
+  display: flex;
+  column-gap: 90px;
+}
+
+.video {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+.secondset {
+  border: 0;
+  background-color: #8eaccd;
+  height: 600px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.services {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 75px auto;
+  text-align: center;
+  margin-top: -100px;
+  margin-left: 320px;
+}
+
+.card {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  margin: 0px 20px auto;
+  padding: 20px 20px;
+  background-color: #efefef;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.card .icon {
+  font-size: 50px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.icon:hover {
+  background-color: #ef9595;
+  transition: 0.4s ease;
+  border-radius: 20px;
+}
+
+.card h2 {
+  font-size: 24px;
+  color: #8eaccd;
+  margin-bottom: 20px;
+}
+
+.card p {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  color: #5e5e5e;
+}
+
+.card:hover {
+  background-color: #daddb1;
+  transition: 0.4s ease;
+}
+
+.experience {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 310px;
+  color: #8eaccd;
+}
+
+.experienceline {
+  margin-left: 30px;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+}
+.video1st {
+  margin-left: 260px;
+  margin-top: 20px;
+  align-items: flex-start;
+}
+.num {
+  font-size: 40px;
+  text-align: center;
+  word-spacing: 200px;
+}
+.countnext {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+}
+.students {
+  margin-left: 375px;
+}
+.workshops {
+  margin-left: 130px;
+}
+.placement {
+  margin-left: 120px;
+}
+.aftercount {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 420px;
+  color: #8eaccd;
+  margin-top: 40px;
+}
+.aftercount1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  margin-left: 20px;
+  margin-top: 10px;
+  text-align: center;
+  line-height: 1.5;
+}
+.congratulations {
+  width: 1100px;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f8f0e5;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 220px;
+  margin-top: 30px;
+}
+.aftercongratulations {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  margin-top: 70px;
+  margin-left: 550px;
+}
+.aftercongratulations1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  margin-top: 20px;
+  margin-left: 40px;
+  text-align: center;
+  line-height: 1.5;
+}
+.marquee {
+  margin-left: 240px;
+}
+.green1 {
+  margin-left: 330px;
+  margin-top: 80px;
+}
+.datastructures {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 340px;
+  color: #8eaccd;
+}
+.datanext {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  text-align: center;
+  margin-right: 450px;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.green2 {
+  margin-left: 840px;
+  margin-top: -550px;
+}
+.javafull {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 790px;
+  color: #8eaccd;
+  margin-top: 20px;
+}
+.javanext {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #5e5e5e;
+  text-align: center;
+  margin-left: 570px;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.team {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8eaccd;
+  margin-left: 700px;
+  margin-top: 90px;
+}
+.teacher1 {
+  margin-left: 220px;
+  margin-top: 40px;
+}
+
+.teacher2 {
+  margin-left: 620px;
+  margin-top: -355px;
+}
+.teacher3 {
+  margin-left: 1020px;
+  margin-top: -355px;
+}
+.taplast {
+  font-size: 25px;
+  font-family: sans-serif;
+  margin-top: 90px;
+  margin-left: 320px;
+  padding-top: 30px;
+  color: whitesmoke;
+}
+.online {
+  font-size: 15px;
+  margin-left: 290px;
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: whitesmoke;
+}
+.locations {
+  font-size: 18px;
+  margin-left: 360px;
+  margin-top: 60px;
+  font-family: sans-serif;
+  color: whitesmoke;
+}
+.bottom {
+  font-size: 15px;
+  text-align: left;
+  margin-left: 300px;
+  margin-top: 10px;
+  line-height: 2;
+  font-family: sans-serif;
+}
+.btm {
+  color: whitesmoke;
+}
+.policies {
+  font-size: 18px;
+  font-family: sans-serif;
+  margin-left: 180px;
+  margin-top: -200px;
+  text-align: center;
+  line-height: 1.5;
+  color: whitesmoke;
+}
+.facebook {
+  margin-left: 800px;
+  text-align: center;
+}
+.youtube2 {
+  text-align: center;
+  margin-left: 900px;
+  margin-top: -20px;
+}
+.insta2 {
+  text-align: center;
+  margin-left: 800px;
+  margin-top: 20px;
+}
+.linkedin {
+  text-align: center;
+  margin-left: 900px;
+  margin-top: -20px;
+}
+.copyright {
+  text-align: left;
+  font-family: sans-serif;
+  margin-left: 1135px;
+  color: whitesmoke;
+  margin-top: 20px;
+}
+.logos {
+  margin-top: -100px;
+}
+.footer {
+  background-color: #6c6969;
+  height: 400px;
+}
